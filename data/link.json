@@ -1,0 +1,3 @@
+{
+  "eq": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=2023-01-01%2000:00:00&endtime=2023-09-14%2023:59:59&minmagnitude=4.5&orderby=time"
+}
